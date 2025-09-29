@@ -1,0 +1,23 @@
+# Dataset - DO NOT UPLOAD
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+food_env_stable/
+venv/
+.env
+
+# Training logs and models
+training_logs/
+models/
+
+# Uploads
+static/uploads/*
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+tensorflow>=2.8.0
+keras
+flask
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
+pillow
+scipy
+werkzeug
